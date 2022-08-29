@@ -28,7 +28,7 @@ const nuevoModulo = 21 % 5 === null;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  
+
 }
 
 function suma(x, y) {
@@ -108,7 +108,7 @@ function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
   // Tu código:
-  
+ 
 }
 
 function elevarAlCubo(num) {
